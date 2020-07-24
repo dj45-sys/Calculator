@@ -1,0 +1,10 @@
+C:\Users\diyey\OneDrive - Games\Escritorio\Mi Carpeta\Diyey45 Studio\Proyectos\En proceso\Calculator\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\diyey\OneDrive - Games\Escritorio\Mi Carpeta\Diyey45 Studio\Proyectos\En proceso\Calculator\Calculator\bin\Debug\Calculator.exe
+C:\Users\diyey\OneDrive - Games\Escritorio\Mi Carpeta\Diyey45 Studio\Proyectos\En proceso\Calculator\Calculator\bin\Debug\Calculator.pdb
+C:\Users\diyey\OneDrive - Games\Escritorio\Mi Carpeta\Diyey45 Studio\Proyectos\En proceso\Calculator\Calculator\obj\Debug\Calculator.csprojAssemblyReference.cache
+C:\Users\diyey\OneDrive - Games\Escritorio\Mi Carpeta\Diyey45 Studio\Proyectos\En proceso\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\Users\diyey\OneDrive - Games\Escritorio\Mi Carpeta\Diyey45 Studio\Proyectos\En proceso\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+C:\Users\diyey\OneDrive - Games\Escritorio\Mi Carpeta\Diyey45 Studio\Proyectos\En proceso\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\diyey\OneDrive - Games\Escritorio\Mi Carpeta\Diyey45 Studio\Proyectos\En proceso\Calculator\Calculator\obj\Debug\Calculator.exe
+C:\Users\diyey\OneDrive - Games\Escritorio\Mi Carpeta\Diyey45 Studio\Proyectos\En proceso\Calculator\Calculator\obj\Debug\Calculator.pdb
+C:\Users\diyey\OneDrive - Games\Escritorio\Mi Carpeta\Diyey45 Studio\Proyectos\En proceso\Calculator\Calculator\obj\Debug\Calculator.Calculadora.resources
